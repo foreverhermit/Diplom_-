@@ -4,6 +4,74 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z5EMbsr1JXCxN6S9F8XN-0" target="z5EMbsr1JXCxN6S9F8XN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z5EMbsr1JXCxN6S9F8XN-0" target="z5EMbsr1JXCxN6S9F8XN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-0" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z5EMbsr1JXCxN6S9F8XN-1" target="z5EMbsr1JXCxN6S9F8XN-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z5EMbsr1JXCxN6S9F8XN-1" target="z5EMbsr1JXCxN6S9F8XN-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z5EMbsr1JXCxN6S9F8XN-8" target="z5EMbsr1JXCxN6S9F8XN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z5EMbsr1JXCxN6S9F8XN-8" target="z5EMbsr1JXCxN6S9F8XN-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-8" value="Играть" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-9" value="Назад" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-18" value="Игровой процесс" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-21" value="Выйти" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z5EMbsr1JXCxN6S9F8XN-24" target="z5EMbsr1JXCxN6S9F8XN-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z5EMbsr1JXCxN6S9F8XN-24" target="z5EMbsr1JXCxN6S9F8XN-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-24" value="Статистика игры" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z5EMbsr1JXCxN6S9F8XN-25" target="z5EMbsr1JXCxN6S9F8XN-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z5EMbsr1JXCxN6S9F8XN-25" target="z5EMbsr1JXCxN6S9F8XN-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-25" value="Управление игрой" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-28" value="Обновить игру" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="334" y="540" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-29" value="Удалить игру" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="334" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-33" value="Статистика посещения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-34" value="Статистика прибыли" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
