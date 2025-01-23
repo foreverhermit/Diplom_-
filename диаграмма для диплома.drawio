@@ -33,7 +33,7 @@
         <mxCell id="z5EMbsr1JXCxN6S9F8XN-8" value="Играть" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="130" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z5EMbsr1JXCxN6S9F8XN-9" value="Назад" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z5EMbsr1JXCxN6S9F8XN-9" value="Выйти" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z5EMbsr1JXCxN6S9F8XN-18" value="Игровой процесс" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
